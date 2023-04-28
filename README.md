@@ -22,3 +22,23 @@
         </body>
 
     </html>
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color:#425f57;
+    
+    
+}
+#titulo{
+    text-align: center;
+    font-size: 25px;
+    font-style:initial ;
+}
+#corpo{
+    background-color:#9DC08b;
+}
+
+
+
+
